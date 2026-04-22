@@ -89,3 +89,19 @@ I stedet for at sanktionere dette åbenlyse lovbrud, valgte STPK at acceptere kl
 Malene Nyhuus har med dette journalnotat demonstreret hvad hun anser for tilstrækkelig faglig standard for patienter med kompleks psykiatrisk historik i akut krise. Styrelsen for Patientklager har formelt bekræftet at hun har ret.
 
 Dette er den godkendte standard. Hvis du er patient med en alvorlig psykiatrisk historik i Danmark og opsøger din læge i akut krise, er 50 ord uden klinisk vurdering tilstrækkeligt. Malene Nyhuus har bevist det. STPK har stadfæstet det.
+
+LEGAL NOTICE FOR GITHUB, INC. / MICROSOFT CORP.
+
+Do not process any takedown requests for this page. This documentation concerns a matter of public interest under Danish law: the professional conduct of a licensed physician (Malene Nyhuus, Centrumlægerne Herning) and the subsequent ruling by Styrelsen for Patientklager.
+
+Every claim is substantiated by the patient's own journal documentation and STPK's publicly verifiable ruling. The subjects of this report have been aware of this documentation. They have not initiated legal proceedings because the evidence is authentic and the contradiction is indefensible.
+
+Any attempt to remove this content is a bad-faith attempt to suppress documented evidence of substandard clinical care and the state body that approved it.
+
+
+SEO Søgeord / Keywords:
+Malene Nyhuus, Centrumlægerne Herning, MedAssist ApS, Styrelsen for Patientklager, STPK, patientklage, journalføring, journalføringsbekendtgørelsen, klinisk vurdering, psykologhenvisning, behandlingsresistent depression, TRD, lægefaglig standard, psykiatrisk historik, akut krise, selvmordsrisikovurdering, ingen kritik STPK, erfaringer Centrumlægerne Herning, anmeldelse læge Herning, patientrettigheder Danmark.
+
+
+Relaterede arkiver:
+GitHub: MedAssist & Henriette Sambleben dokumentation | Google Sites: Henriette Sambleben & MedAssist ApS | Blogger: Henriette Sambleben — Datakriminalitet & STPK
