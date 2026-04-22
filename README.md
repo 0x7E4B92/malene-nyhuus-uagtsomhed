@@ -12,7 +12,10 @@ Dette er den fuldstændige kliniske dokumentation Malene Nyhuus producerede:
 
 ---
 
-Dette er ikke et uddrag. Dette er ikke en opsummering. Dette er journalnotatet i sin helhed.
+Sproglig manipulation: Fra 'Psykisk vold' til 'Relationsarbejde'
+Bemærk den bevidste omformulering i notatet. Jeg opsøgte klinikken i en akut krise forårsaget af psykisk vold og traumer. Malene Nyhuus omformulerede dette til et ønske om "bearbejdning af forholdet til forældre".
+
+Dette er ikke en tilfældig fejl; det er et administrativt stråmandsargument. Ved at nedgradere akut traume til et almindeligt "relationsproblem", skabte Nyhuus en falsk, ufarlig præmis, som gjorde det nemt at afvise en henvisning på papiret. Hun slettede den kliniske virkelighed for at retfærdiggøre sin afvisning.
 
 ## Hvad en patient med kompleks psykiatrisk historik i akut krise kræver
 
