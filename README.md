@@ -7,10 +7,10 @@ Dette er den fuldstændige kliniske dokumentation Malene Nyhuus producerede:
 
 *"Samtale pt ønsker henv til psykolog mhp bearbejdning af forholdet til forældre gennem barndommen. Pt info om, at henv på ovenstående indikation ikke kan ske via e.l. Det vurderes at pt ikke opfylder indikationer for henv til psykolog via sygesikringen. PTen anb henv til psykiatrisk vurdering - pt ønsker ikke."*
 
-**Sproglig manipulation: Fra 'Psykisk vold' til 'Relationsarbejde'**
-Bemærk den bevidste omformulering i notatet. Jeg opsøgte klinikken i en akut krise forårsaget af psykisk vold og traumer. Malene Nyhuus omformulerede dette til et ønske om "bearbejdning af forholdet til forældre".
+**Den sproglige udviskning: Fra 'Psykisk vold' til 'Relationsarbejde'**
+Bemærk den voldsomme diskrepans mellem virkelighed og journal. Min præsentation i klinikken omhandlede akut krise udløst af psykisk vold og traumer. I Malene Nyhuus' journalnotat er dette reduceret til et ønske om "bearbejdning af forholdet til forældre".
 
-Dette er ikke en tilfældig fejl; det er et administrativt stråmandsargument. Ved at nedgradere akut traume til et almindeligt "relationsproblem", skabte Nyhuus en falsk, ufarlig præmis, som gjorde det nemt at afvise en henvisning på papiret. Hun slettede den kliniske virkelighed for at retfærdiggøre sin afvisning.
+Dette fungerer i praksis som et administrativt stråmandsargument. Ved at nedgradere psykisk vold til et almindeligt "relationsproblem", opstilles en ufarlig præmis, som er let at afvise over for sygesikringen. Uanset om det skyldes inkompetence eller kynisme, er resultatet det samme: Den kliniske virkelighed slettes, og afvisningen kommer til at fremstå "korrekt" på papiret. Det er et eklatant brud på Journalføringsbekendtgørelsens § 10 om at beskrive den faktiske årsag til kontakten.
 
 **Hvad en patient med kompleks psykiatrisk historik i akut krise kræver**
 En patient med en langvarig og kompleks psykiatrisk historik der præsenterer i akut krise kræver som minimum:
