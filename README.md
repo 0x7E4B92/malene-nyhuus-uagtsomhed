@@ -12,6 +12,29 @@ Bemærk den voldsomme diskrepans mellem virkelighed og journal. Min præsentatio
 
 Dette fungerer i praksis som et administrativt stråmandsargument. Ved at nedgradere psykisk vold til et almindeligt "relationsproblem", opstilles en ufarlig præmis, som er let at afvise over for sygesikringen. Uanset om det skyldes inkompetence eller kynisme, er resultatet det samme: Den kliniske virkelighed slettes, og afvisningen kommer til at fremstå "korrekt" på papiret. Det er et eklatant brud på Journalføringsbekendtgørelsens § 10 om at beskrive den faktiske årsag til kontakten.
 
+**Juridisk Obduktion af et Journalnotat: 50 ord, utallige lovbrud**
+For at forstå omfanget af Malene Nyhuus' svigt — og STPK's efterfølgende mørklægning — skal notatet holdes direkte op imod den lovgivning, der regulerer lægers arbejde: *Journalføringsbekendtgørelsen (BEK nr 530)*.
+
+Her er en sætning-for-sætning analyse af lægens dokumentation, målt mod dansk lov:
+
+> **Lægens tekst:** *"Samtale pt ønsker henv til psykolog mhp bearbejdning af forholdet til forældre gennem barndommen."*
+> **Lovkravet (§ 10, stk. 2, litra a):** Journalen skal indeholde "årsagen til kontakten" og "beskrivelse af patientens nuværende tilstand".
+> **Lovbruddet:** Notatet dokumenterer et administrativt ønske, men sletter fuldstændig den *nuværende tilstand*. At patienten sidder i akut krise med behandlingsresistent depression (TRD) og nyligt traume fremgår ingen steder. Den kliniske virkelighed er udvisket.
+
+> **Lægens tekst:** *"Pt info om, at henv på ovenstående indikation ikke kan ske via e.l."*
+> **Lovkravet (§ 10, stk. 2, litra b):** Journalen skal indeholde "observationer og undersøgelser samt resultatet heraf".
+> **Lovbruddet:** Før en læge kan afvise et behandlingsbehov for en psykiatrisk patient i krise, kræves en undersøgelse (f.eks. selvmordsrisiko, depressionsgrad). Der er **nul** observationer og **nul** undersøgelser dokumenteret. Kun en administrativ afvisning.
+
+> **Lægens tekst:** *"Det vurderes at pt ikke opfylder indikationer for henv til psykolog via sygesikringen."*
+> **Lovkravet (§ 10, stk. 2, litra d & e):** Journalen skal indeholde det "sundhedsfaglige skøn" og "indikation for undersøgelsen/behandlingen".
+> **Lovbruddet:** Nyhuus noterer en *konklusion*, men fremlægger intet *klinisk ræsonnement*. Senere i klagesagen påstod klinikken, at afvisningen skyldtes min "grundlæggende psykopatologi". Dette ræsonnement findes slet ikke i journalen, da beslutningen blev truffet. Det er en ulovlig, udokumenteret vurdering.
+
+> **Lægens tekst:** *"PTen anb henv til psykiatrisk vurdering - pt ønsker ikke."*
+> **Lovkravet (§ 2, stk. 4):** Journalen skal fungere som kommunikationsmiddel og sikre patientsikkerheden.
+> **Lovbruddet:** Notatet nævner ikke, *hvorfor* psykiatri blev anbefalet, eller om der var en akut fare. Hvis jeg var faldet om en time senere, og en anden læge læste dette notat, ville de intet vide om min risikoprofil eller krisetilstand. Notatet er ubrugeligt for patientsikkerheden.
+
+**Konklusion på obduktionen:** Dette er ikke et spørgsmål om en læge, der formulerer sig kortfattet. Det er en systematisk omgåelse af mindst fire specifikke lovkrav i Journalføringsbekendtgørelsen. Det er dette dokumenterede lovbrud, STPK har valgt at velsigne som "tilstrækkelig standard".
+
 **Hvad en patient med kompleks psykiatrisk historik i akut krise kræver**
 En patient med en langvarig og kompleks psykiatrisk historik der præsenterer i akut krise kræver som minimum:
 * Vurdering af aktuel psykisk tilstand
