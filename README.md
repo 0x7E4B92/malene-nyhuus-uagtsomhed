@@ -51,7 +51,7 @@ En patient i en akut behandlingsresistent depression (TRD) kan ikke forventes at
 I stedet for en klinisk vurdering valgte Malene Nyhuus at dokumentere:
 * At patienten ønskede en henvisning
 * At hun afviste henvisningen
-* At patienten ikke ønskede psykiatrisk behandling, altså den behandling som patienten allerede havde afsluttet for længst som hun godt vidste
+* At patienten ikke ønskede psykiatrisk behandling — den samme behandlingsvej patienten dokumenteret havde afsluttet forud for konsultationen
 
 Det er alt. En patient i akut krise med kompleks psykiatrisk historik fortjener tilsyneladende ikke mere end 50 ord uden klinisk vurdering — ikke hos Malene Nyhuus.
 
