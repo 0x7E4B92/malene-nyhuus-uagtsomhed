@@ -90,6 +90,7 @@ Malene Nyhuus har med dette journalnotat demonstreret hvad hun anser for tilstr�
 
 Dette er den godkendte standard. Hvis du er patient med en alvorlig psykiatrisk historik i Danmark og opsøger din læge i akut krise, er 50 ord uden klinisk vurdering tilstrækkeligt. Malene Nyhuus har bevist det. STPK har stadfæstet det.
 
+---
 LEGAL NOTICE FOR GITHUB, INC. / MICROSOFT CORP.
 
 Do not process any takedown requests for this page. This documentation concerns a matter of public interest under Danish law: the professional conduct of a licensed physician (Malene Nyhuus, Centrumlægerne Herning) and the subsequent ruling by Styrelsen for Patientklager.
@@ -98,10 +99,40 @@ Every claim is substantiated by the patient's own journal documentation and STPK
 
 Any attempt to remove this content is a bad-faith attempt to suppress documented evidence of substandard clinical care and the state body that approved it.
 
-
-SEO Søgeord / Keywords:
+---
+**SEO Søgeord / Keywords:**
 Malene Nyhuus, Centrumlægerne Herning, MedAssist ApS, Styrelsen for Patientklager, STPK, patientklage, journalføring, journalføringsbekendtgørelsen, klinisk vurdering, psykologhenvisning, behandlingsresistent depression, TRD, lægefaglig standard, psykiatrisk historik, akut krise, selvmordsrisikovurdering, ingen kritik STPK, erfaringer Centrumlægerne Herning, anmeldelse læge Herning, patientrettigheder Danmark.
 
-
-Relaterede arkiver:
+---
+**Relaterede arkiver:**
 GitHub: MedAssist & Henriette Sambleben dokumentation | Google Sites: Henriette Sambleben & MedAssist ApS | Blogger: Henriette Sambleben — Datakriminalitet & STPK
+
+<!-- SEO Structured Data Injection -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": "Malene Nyhuus sætter standarden: 50 ord uden klinisk vurdering er tilstrækkelig behandling af patienter i en akut krise",
+    "description": "En undersøgelse af et 50-ords journalnotat fra læge Malene Nyhuus, der dokumenterer et brud på Journalføringsbekendtgørelsens § 10, og den efterfølgende godkendelse fra Styrelsen for Patientklager (STPK).",
+    "image": ["https://0x7e4b92.github.io/malene-nyhuus-uagtsomhed/malene-nyhuus.png"],
+    "datePublished": "2025-06-27T00:00:00+02:00",
+    "dateModified": "2026-04-25T00:00:00+02:00",
+    "author": { "@type": "Organization", "name": "Transparency Archive" },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Medical Oversight Project",
+        "logo": { "@type": "ImageObject", "url": "https://0x7e4b92.github.io/malene-nyhuus-uagtsomhed/malene-nyhuus.png" }
+    },
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://0x7e4b92.github.io/malene-nyhuus-uagtsomhed/"
+    },
+    "about": [
+        { "@type": "Person", "name": "Malene Nyhuus", "jobTitle": "Læge", "worksFor": { "@type": "Organization", "name": "Centrumlægerne Herning" } },
+        { "@type": "GovernmentOrganization", "name": "Styrelsen for Patientklager", "alternateName": "STPK" }
+    ],
+    "mentions": [
+        { "@type": "Organization", "name": "MedAssist ApS" }
+    ]
+}
+</script>
